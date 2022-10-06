@@ -7,9 +7,9 @@ public class Ejercicio3{
         System.out.printf("%-20s %s\n ", "Movil", "Phone");
         System.out.printf("%-20s %s\n ", "Foto", "Photo");
         System.out.printf("%-20s %s\n ", "Placa Base", "Mother Board");
-        System.out.printf("%-20s %s\n ", "Computer", "Ordenador");
-        System.out.printf("%-20s %s\n ", "Computer", "Ordenador");
-        System.out.printf("%-20s %s\n ",  "Computer", "Ordenador");
-        System.out.printf("%-20s %s\n ",  "Computer", "Ordenador");
+        System.out.printf("%-20s %s\n ", "Gato", "Cat");
+        System.out.printf("%-20s %s\n ", "Perro", "Dog");
+        System.out.printf("%-20s %s\n ",  "Pez", "Fish");
+        System.out.printf("%-20s %s\n ",  "Pajaro", "Bird");
     }
 }
