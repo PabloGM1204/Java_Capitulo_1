@@ -1,5 +1,6 @@
 public class Ejercicio10{
     public static void main (String [] args){
+        // I put a color with the next line
         System.out.printf("\033[37m");
         System.out.println("  _______ ");
         System.out.printf("\033[35m");
